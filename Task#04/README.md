@@ -79,7 +79,7 @@ pip install streamlit requests streamlit-lottie
 ## Contact
 For questions, feedback, or contributions, please reach out to:
 - **Developer**: Usman Sarwar
-- **LinkedIn**:[Connect With Developer!](www.linkedin.com/in/muhammad-usman-018535253)
+- **LinkedIn**:[Connect With Developer!](https://www.linkedin.com/in/muhammad-usman-018535253)
 - **Email**: muhammadusman.becsef22@iba-suk.edu.pk
 - **GitHub**: [See GitHub](https://github.com/Usmansarwar143)
 - **Organization**: Developers Hub Corporation
